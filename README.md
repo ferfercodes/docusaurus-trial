@@ -2,6 +2,19 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+## Repo specific instructions:
+
+- `npm start` - this will boot up docusaurus service, will open up browser at http://localhost:3000
+- `npm run build` - bundles site into static files for production
+- `npm run serve` - serves built website locally
+- `npm run deploy` - publishes website into github pages
+
+Served pages:
+- http://localhost:3000/react-page
+- http://localhost:3000/markdown-page
+- http://localhost:3000/docs/hello
+- http://localhost:3000/blog/greetings
+
 ## Installation
 
 ```bash
