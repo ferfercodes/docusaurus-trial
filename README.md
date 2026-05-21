@@ -10,10 +10,10 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 - `npm run deploy` - publishes website into github pages
 
 Served pages:
-- http://localhost:3000/react-page
-- http://localhost:3000/markdown-page
-- http://localhost:3000/docs/hello
-- http://localhost:3000/blog/greetings
+- http://localhost:3000/docusaurus-trial/react-page
+- http://localhost:3000/docusaurus-trial/markdown-page
+- http://localhost:3000/docusaurus-trial/docs/hello
+- http://localhost:3000/docusaurus-trial/blog/greetings
 
 ## Installation
 
