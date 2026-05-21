@@ -4,10 +4,19 @@
         <title>My Site Blog</title>
         <link>https://ferfercodes.github.io/docusaurus-trial/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Sun, 10 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Hello world]]></title>
+            <link>https://ferfercodes.github.io/docusaurus-trial/blog/hello-world</link>
+            <guid>https://ferfercodes.github.io/docusaurus-trial/blog/hello-world</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adding a new blog post and republishing the same.]]></description>
+            <content:encoded><![CDATA[<p>Adding a new blog post and republishing the same.</p>]]></content:encoded>
+            <category>hello-world</category>
+        </item>
         <item>
             <title><![CDATA[Greetings!]]></title>
             <link>https://ferfercodes.github.io/docusaurus-trial/blog/greetings</link>
